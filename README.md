@@ -6,5 +6,5 @@ Refer below video for the quick look
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/SaurabhBisht/CustomLoader/blob/master/animated.gif">
+<img src="https://raw.githubusercontent.com/SaurabhBisht/CustomLoader/animated.gif">
                                   
